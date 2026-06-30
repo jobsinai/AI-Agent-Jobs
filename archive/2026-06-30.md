@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # AI Agent Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 17:54 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 21:19 UTC</small></sub>
 
 Daily AI agent and agentic engineering jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-ai-agent-jobs).
